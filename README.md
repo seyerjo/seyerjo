@@ -1,4 +1,4 @@
-## 👋 console.log('Hi!, I’m José Miguel Reyes');
+## 👋 console.log("Hi!, I’m José Miguel Reyes");
 ```javascript
    const seyerjo = {
        code: ["HTML", "CSS", "JavaScript", "React.JS", "Node.JS", "Next.JS", "PHP", "C#"],
