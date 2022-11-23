@@ -4,7 +4,7 @@
        code: ["HTML", "CSS", "JavaScript", "React.JS", "Node.JS", "Next.JS", "PHP", "C#", "Python"],
        technologies: ["Wordpress", "Laravel", "SQLite", "MySQL", "MongoDB", "PostgreSQL"],
        moreTechnologies: [".Net", "SQL Server", "AppGyver", "Figma", "Notion"],
-       askMeAbout: ["Web Development", "Mobile Apps Development", "Desktop Applications Development", "ITC"],
+       askMeAbout: ["Web Development", "Mobile Apps Development", "Desktop Applications Development", "ICT"],
    };
 ```
 <p align="justify" >
