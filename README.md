@@ -1,9 +1,9 @@
 ## 👋 console.log("Hi!, I’m José Miguel Reyes");
 ```javascript
    const seyerjo = {
-       code: ["HTML", "CSS", "JavaScript", "React.JS", "Node.JS", "Next.JS", "PHP", "C#", "Python"],
-       technologies: ["Wordpress", "Laravel", "SQLite", "MySQL", "MongoDB", "PostgreSQL"],
-       moreTechnologies: [".Net", "SQL Server", "AppGyver", "Figma", "Notion"],
+       myCodeIn: ["HTML", "CSS", "JavaScript", "React.JS", "Node.JS", "Next.JS", "PHP", "C#", "Python"],
+       myTechnologies: ["Wordpress", "Laravel", "Figma", "SQLite", "MySQL", "MongoDB", "PostgreSQL"],
+       myOtherTechnologies: [".Net", "SQL Server", "AppGyver", "Notion", "Linux", "Bash Shell", "Git", "Github"],
        askMeAbout: ["Web Development", "Mobile Apps Development", "Desktop Applications Development", "ICT"],
    };
 ```
@@ -18,4 +18,4 @@ When I'm not programming or attending consultancies, I'm doing the "typical thin
 - Twitter: [@seyerjo](https://twitter.com/seyerjo "@seyerjo")
 - LinkedIn: [José Miguel Reyes](https://www.linkedin.com/in/josem-reyes "José Miguel Reyes")
 ## Technologies that I use:
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,nextjs,php,laravel,wordpress,cs,dotnet,python,sqlite,mysql,mongodb,postgres,figma,powershell,linux,bash,git,github)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,nextjs,php,laravel,wordpress,cs,dotnet,python,sqlite,mysql,mongodb,postgres,figma,linux,bash,git,github)](https://skills.thijs.gg)
