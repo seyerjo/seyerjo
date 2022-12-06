@@ -1,6 +1,7 @@
 <img src="./assets/github-profile-banner.jpg" />
 
-## 👋 console.log("Hi!, I’m José Miguel Reyes");
+<h2 align="center">👋 console.log("Hi!, I’m José Miguel Reyes");</h2>
+
 ```javascript
    const seyerjo = {
        myCodeIn: ["HTML", "CSS", "JavaScript", "React.JS", "Node.JS", "Next.JS", "PHP", "C#", "Python"],
