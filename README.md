@@ -9,12 +9,12 @@ const seyerjo = {
     myDataBases: ["SQLite", "MySQL", "PostgreSQL", "SQL Server", "MongoDB"],
     myTechnologies: ["AppGyver", "Wordpress", "Figma", "Notion"],
     myOtherTechnologies: ["Linux", "Bash Shell", "Windows", "Powershell", "Git", "Github"],
-    askMeAbout: ["Web Development", "Mobile Apps Development", "Desktop Applications Development", "ITC"],
+    askMeAbout: ["Web Development", "Mobile Apps Development", "Desktop Applications Development", "ICT"],
 };
 ```
 
 <p align="justify">
-I am a Software Developer and Information Technology Consultant who enjoys solving problems through technology, from planning the structure of each project to its transition to production. I actively contribute in every stage of its construction to get the best possible result. The good impression that the final product can cause to its users will define its success and love for it.
+I am a Software Developer and Information Technologies Consultant who enjoys solving problems through technology, from planning the structure of each project to its transition to production. I actively contribute in every stage of its construction to get the best possible result. The good impression that the final product can cause to its users will define its success and love for it.
 </p>
 <p align="justify">
 Throughout my professional career, in addition to Software Development, I have acquired another set of skills that allow me to help all those who trust my work every day: Systems Administration, Information and Computer Security, ICT Management, Business Processes, among others.
