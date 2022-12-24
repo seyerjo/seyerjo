@@ -9,7 +9,7 @@ const seyerjo = {
     myDataBases: ["SQLite", "MySQL", "PostgreSQL", "SQL Server", "MongoDB"],
     myTechnologies: ["AppGyver", "Wordpress", "Figma", "Notion"],
     myOtherTechnologies: ["Linux", "Bash Shell", "Windows", "Powershell", "Git", "Github"],
-    askMeAbout: ["Web Development", "Mobile Apps Development", "Desktop Applications Development", "ICT"],
+    askMeAbout: ["Web Development", "Mobile Apps Development", "Desktop Applications Development", "ITC"],
 };
 ```
 
