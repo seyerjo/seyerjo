@@ -14,10 +14,14 @@ const seyerjo = {
 ```
 
 <p align="justify">
-I am a Software Developer and ICT Consultant who loves solving problems through technology, from planning the structure of each project to its transition to production. I actively contribute in each stage of its construction to obtain the best possible result. A good impression of the product for the end users can define its success and love for it.
+
+I am a Software Developer and Information Technology Consultant who enjoys solving problems through technology, from planning the structure of each project to its transition to production. I actively contribute in every stage of its construction to get the best possible result. The good impression that the final product can cause to its users will define its success and love for it.
 </p>
 <p align="justify">
-When I'm not programming or attending consultancies, I'm doing the "typical things" of the CEOs and Founders of a company or collaborating with the Techie Community.
+Throughout my professional career, in addition to Software Development, I have acquired another set of skills that allow me to help all those who trust my work every day: Systems Administration, Information and Computer Security, ICT Management, Business Processes, among others.
+</p>
+<p align="justify">
+When I am not programming or doing consulting, I am doing the "typical things" of the CEOs and Founders of a company or collaborating with the ICT Community.
 </p>
 
 ## 📲 Find me in ...
