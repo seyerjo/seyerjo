@@ -25,6 +25,6 @@ When I'm not programming or attending consultancies, I'm doing the "typical thin
 -   Twitter: [@seyerjo](https://twitter.com/seyerjo "@seyerjo")
 -   LinkedIn: [José Miguel Reyes](https://www.linkedin.com/in/josem-reyes "José Miguel Reyes")
 
-## Technologies that I use:
+## Technologies I use every day to develop software:
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,python,cs,nodejs,nextjs,react,laravel,dotnet,wordpress,sqlite,mysql,postgres,mongodb,figma,linux,bash,git,github)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,python,cs,nodejs,nextjs,react,laravel,dotnet,wordpress,sqlite,mysql,postgres,mongodb,figma,linux,bash,powershell,git,github)](https://skills.thijs.gg)
