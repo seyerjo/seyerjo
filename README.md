@@ -4,9 +4,11 @@
 
 ```javascript
 const seyerjo = {
-    myCodeIn: ["HTML", "CSS", "JavaScript", "React.JS", "Node.JS", "Next.JS", "React Native", "PHP", "C#", "Python"],
-    myTechnologies: ["AppGyver", "Wordpress", "Laravel", "Figma", "Notion", "SQLite", "MySQL", "MongoDB", "PostgreSQL"],
-    myOtherTechnologies: [".Net", "SQL Server", "Linux", "Bash Shell", "Windows", "Powershell", "Git", "Github"],
+    myCodeIn: ["HTML", "CSS", "JavaScript", "PHP", "Python", "C#"],
+    myFrameworks: ["Node.JS", "React.JS", "Next.JS", "React Native", "Laravel", ".Net"],
+    myDataBases: ["SQLite", "MySQL", "MongoDB", "PostgreSQL", "SQL Server"],
+    myTechnologies: ["AppGyver", "Wordpress", "Figma", "Notion"],
+    myOtherTechnologies: ["Linux", "Bash Shell", "Windows", "Powershell", "Git", "Github"],
     askMeAbout: ["Web Development", "Mobile Apps Development", "Desktop Applications Development", "ICT"],
 };
 ```
@@ -25,4 +27,4 @@ When I'm not programming or attending consultancies, I'm doing the "typical thin
 
 ## Technologies that I use:
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,nextjs,php,laravel,wordpress,cs,dotnet,python,sqlite,mysql,mongodb,postgres,figma,linux,bash,git,github)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,python,cs,nodejs,nextjs,react,laravel,dotnet,wordpress,sqlite,mysql,postgres,mongodb,figma,linux,bash,git,github)](https://skills.thijs.gg)
