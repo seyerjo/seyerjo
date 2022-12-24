@@ -6,7 +6,7 @@
 const seyerjo = {
     myCodeIn: ["HTML", "CSS", "JavaScript", "PHP", "Python", "C#"],
     myFrameworks: ["Node.JS", "React.JS", "Next.JS", "React Native", "Laravel", ".Net"],
-    myDataBases: ["SQLite", "MySQL", "MongoDB", "PostgreSQL", "SQL Server"],
+    myDataBases: ["SQLite", "MySQL", "PostgreSQL", "SQL Server", "MongoDB"],
     myTechnologies: ["AppGyver", "Wordpress", "Figma", "Notion"],
     myOtherTechnologies: ["Linux", "Bash Shell", "Windows", "Powershell", "Git", "Github"],
     askMeAbout: ["Web Development", "Mobile Apps Development", "Desktop Applications Development", "ICT"],
