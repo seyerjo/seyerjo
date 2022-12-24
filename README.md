@@ -14,7 +14,6 @@ const seyerjo = {
 ```
 
 <p align="justify">
-
 I am a Software Developer and Information Technology Consultant who enjoys solving problems through technology, from planning the structure of each project to its transition to production. I actively contribute in every stage of its construction to get the best possible result. The good impression that the final product can cause to its users will define its success and love for it.
 </p>
 <p align="justify">
