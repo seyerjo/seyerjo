@@ -4,11 +4,13 @@
 
 ```javascript
 const seyerjo = {
-    myCodeIn: ["HTML", "CSS", "JavaScript", "PHP", "Python", "C#"],
-    myFrameworks: ["Node.JS", "React.JS", "Next.JS", "React Native", "Laravel", ".Net"],
-    myDataBases: ["SQLite", "MySQL", "PostgreSQL", "SQL Server", "MongoDB"],
-    myTechnologies: ["AppGyver", "Wordpress", "Figma", "Notion"],
-    myOtherTechnologies: ["Linux", "Bash Shell", "Windows", "Powershell", "Git", "Github"],
+    myCodeIn: ["HTML", "CSS", "JavaScript", "TypeScript", "PHP", "Python", "C#"],
+    myCodeWith: ["Bootstrap", "jQuery", "Sass", "Prettier", "EsLint", "Jest", "Vite", "WordPress"],
+    myCodeFrameworks: ["Node.JS", "Express.JS", "Next.JS", "React.JS"],
+    myOtherCodeFrameworks: ["React Native", "Laravel", "Symfony", ".Net"],
+    myDataBases: ["MongoDB", "SQLite", "MySQL", "PostgreSQL", "SQL Server"],
+    myTechnologies: ["Visual Studio Code", "Figma", "AppGyver", "Notion", "Visual Studio Community"],
+    myOtherTechnologies: ["Linux", "Bash Shell", "Windows", "Powershell", "Git", "Github", "CodeStream"],
     askMeAbout: ["Web Development", "Mobile Apps Development", "Desktop Applications Development", "ICT"],
 };
 ```
@@ -30,4 +32,4 @@ When I am not programming or doing consulting, I am doing the "typical things" o
 
 ## Technologies I use every day to develop software:
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,python,cs,nodejs,nextjs,react,laravel,dotnet,wordpress,sqlite,mysql,postgres,mongodb,figma,linux,bash,powershell,git,github)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,php,python,cs,bootstrap,jquery,sass,wordpress,nodejs,expressjs,nextjs,react,laravel,symfony,dotnet,sqlite,mysql,postgres,mongodb,figma,linux,bash,powershell,git,github)](https://skills.thijs.gg)
