@@ -23,7 +23,7 @@ I am a Software Developer and Information Technologies Consultant, and I love fi
 Throughout my professional career, in addition to Software Development, I have acquired another set of skills that allow me to help all those who trust my work every day: Systems Administration, Information and Computer Security, ICT Management or Business Processes, among others.
 </p>
 <p align="justify">
-When I am not programming or attending any of my consultancies, I am doing the "typical things" of the CEOs and Founders of a company or collaborating with the ICT Community.
+When I am not programming or attending consultancies, I am doing the "typical things" of the CEOs and Founders of a company, collaborating with the ICT Community or learning new things.
 </p>
 
 ## 📲 Find me in ...
