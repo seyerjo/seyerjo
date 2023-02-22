@@ -8,10 +8,10 @@ const seyerjo = {
     myCodeWith: ["Bootstrap", "jQuery", "Sass", "Prettier", "EsLint", "Jest", "Vite", "PHPUnit"],
     myCodeWithToo: ["Styled Components", "Emotion", "CSS Modules", "Redux", "Axios", "Electron", "WordPress"],
     myCodeFrameworks: ["Node.JS", "Express.JS", "Next.JS", "React.JS"],
-    myOtherCodeFrameworks: ["React Native", "Laravel", "Symfony", ".Net"],
+    myCodeFrameworksToo: ["React Native", "Laravel", "Symfony", ".Net"],
     myDataBases: ["MongoDB", "SQLite", "MySQL", "PostgreSQL", "SQL Server"],
-    myTechnologies: ["Visual Studio Code", "Figma", "AppGyver", "Notion", "Visual Studio Community"],
-    myOtherTechnologies: ["Linux", "Bash Shell", "Windows", "Powershell", "Git", "Github", "CodeStream"],
+    myTools: ["Visual Studio Code", "Figma", "AppGyver", "Notion", "Visual Studio Community"],
+    myToolsToo: ["Linux", "Mac OS X", "Windows", "Bash Shell", "Z Shell", "Powershell", "Git", "Github", "CodeStream"],
     askMeAbout: ["Web Development", "Mobile Apps Development", "Desktop Applications Development", "ICT"],
 };
 ```
