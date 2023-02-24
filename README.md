@@ -4,14 +4,15 @@
 
 ```javascript
 const seyerjo = {
-    myCodeIn: ["HTML", "CSS", "JavaScript", "TypeScript", "PHP", "Python", "C#"],
-    myCodeWith: ["Bootstrap", "jQuery", "Sass", "Prettier", "EsLint", "Jest", "Vite", "PHPUnit"],
-    myCodeWithToo: ["Styled Components", "Emotion", "CSS Modules", "Redux", "Axios", "Electron", "WordPress"],
-    myCodeFrameworks: ["Node.JS", "Express.JS", "Next.JS", "React.JS"],
-    myCodeFrameworksToo: ["React Native", "Laravel", "Symfony", ".Net"],
+    myCodeLangs: ["HTML", "CSS", "JavaScript", "TypeScript", "PHP", "Python", "C#"],
+    myCodeTools: ["Bootstrap", "jQuery", "Sass", "Prettier", "ESLint", "Jest", "Vite", "PHPUnit"],
+    myOtherCodeTools: ["Styled Components", "Emotion", "CSS Modules", "Redux", "Axios", "WordPress"],
+    myCodeFrameworks: ["Node.js", "Express.js", "Next.js", "React.js", "React Native"],
+    myOtherCodeFrameworks: ["Laravel", "Symfony", "WP Core", "Electron", ".Net"],
     myDataBases: ["MongoDB", "SQLite", "MySQL", "PostgreSQL", "SQL Server"],
-    myTools: ["Visual Studio Code", "Figma", "AppGyver", "Notion", "Visual Studio Community"],
-    myToolsToo: ["Linux", "Mac OS X", "Windows", "Bash Shell", "Z Shell", "Powershell", "Git", "Github", "CodeStream"],
+    myDeveloperTools: ["Visual Studio Code", "Git", "Github", "CodeStream", "Figma"],
+    myOtherDeveloperTools: ["Visual Studio", "Notion", "AppGyver"],
+    mySystemTools: ["Linux", "Mac OS X", "Windows", "Bash Shell", "Z Shell", "Powershell"],
     askMeAbout: ["Web Development", "Mobile Apps Development", "Desktop Applications Development", "ICT"],
 };
 ```
@@ -33,4 +34,4 @@ When I am not programming or attending consultancies, I am doing the "typical th
 
 ## Technologies I use every day to develop software:
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,php,python,cs,bootstrap,jquery,sass,jest,vite,styledcomponents,emotion,redux,electron,wordpress,nodejs,expressjs,nextjs,react,laravel,symfony,dotnet,sqlite,mysql,postgres,mongodb,vscode,figma,visualstudio,linux,bash,powershell,git,github)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,php,python,cs,bootstrap,jquery,sass,jest,vite,styledcomponents,emotion,redux,wordpress,nodejs,expressjs,nextjs,react,laravel,symfony,electron,dotnet,mongodb,sqlite,mysql,postgres,vscode,git,github,figma,visualstudio,linux,bash,powershell)](https://skills.thijs.gg)
