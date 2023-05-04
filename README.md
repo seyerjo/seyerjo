@@ -45,9 +45,13 @@ const seyerjo = {
 
 ## 📲 Find me in ...
 
+<br/>
+
 -   Twitter: [@seyerjo](https://twitter.com/seyerjo "@seyerjo")
 -   LinkedIn: [José Miguel Reyes](https://www.linkedin.com/in/josem-reyes "José Miguel Reyes")
 
 ## Some technologies I use to develop software:
+
+<br/>
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,php,python,cs,bootstrap,jquery,sass,jest,vite,styledcomponents,emotion,redux,wordpress,nodejs,expressjs,nextjs,react,laravel,symfony,electron,dotnet,mongodb,sqlite,mysql,postgres,vscode,git,github,figma,visualstudio,linux,bash,powershell)]()
