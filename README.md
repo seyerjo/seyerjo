@@ -4,6 +4,8 @@
     👋 console.log("Hi!, I’m José Miguel Reyes");
 </h2>
 
+<br/>
+
 <p align="justify">
 I am an IT Consultant, specialising in Software Development for the Web, mobile devices and for Windows, Linux and Mac OS desktops, as well as in the application of Data Analytics and Artificial Intelligence to Business Processes.
 </p>
@@ -23,6 +25,8 @@ When I'm not programming or consulting, I'm doing the "typical things" of CEOs a
 <p align="justify">
 Currently I am deeply involved in the study of the practical application of newly emerging Data Science and Artificial Intelligence based tools to increase the productivity of IT processes through programming.
 </p>
+
+<br/>
 
 ```javascript
 const seyerjo = {
