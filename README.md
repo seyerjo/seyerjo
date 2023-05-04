@@ -28,7 +28,7 @@ Currently I am deeply involved in the study of the practical application of newl
 const seyerjo = {
     myCodeIn: ["HTML", "CSS", "JavaScript", "TypeScript", "PHP", "Python", "C#"],
     myCodeWith: ["Bootstrap", "jQuery", "Sass", "Prettier", "ESLint", "Jest", "Vite", "PHPUnit"],
-    myCodeToo: ["Styled Components", "Emotion", "CSS Modules", "Redux", "Axios", "WordPress"],
+    myCodeToo: ["Tailwind CSS", "Styled Components", "Emotion", "CSS Modules", "Redux", "Axios"],
     myCodeFrameworks: ["Node.js", "Express.js", "Next.js", "React.js", "React Native"],
     myOtherCodeFrameworks: ["Laravel", "Symfony", "WP Core", "Electron", ".Net"],
     myDataBases: ["MongoDB", "SQLite", "MySQL", "PostgreSQL", "SQL Server"],
