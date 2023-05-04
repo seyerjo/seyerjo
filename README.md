@@ -54,4 +54,4 @@ const seyerjo = {
 
 <br/>
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,php,python,cs,bootstrap,jquery,sass,jest,vite,styledcomponents,emotion,redux,wordpress,nodejs,expressjs,nextjs,react,laravel,symfony,electron,dotnet,mongodb,sqlite,mysql,postgres,vscode,git,github,figma,visualstudio,linux,bash,powershell)]()
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,php,python,cs,bootstrap,jquery,sass,jest,vite,tailwind,styledcomponents,emotion,redux,wordpress,nodejs,expressjs,nextjs,react,laravel,symfony,electron,dotnet,mongodb,sqlite,mysql,postgres,vscode,git,github,figma,visualstudio,linux,bash,powershell)]()
