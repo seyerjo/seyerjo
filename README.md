@@ -30,15 +30,14 @@ Currently I am deeply involved in the study of the practical application of newl
 
 ```javascript
 const seyerjo = {
-    myCodeIn: ["HTML", "CSS", "JavaScript", "TypeScript", "PHP", "Python", "C#"],
-    myCodeWith: ["Bootstrap", "jQuery", "Sass", "Prettier", "ESLint", "Jest", "Vite", "PHPUnit"],
-    myCodeToo: ["Tailwind CSS", "Styled Components", "Emotion", "CSS Modules", "Redux", "Axios"],
-    myCodeFrameworks: ["Node.js", "Express.js", "Next.js", "React.js", "React Native"],
-    myOtherCodeFrameworks: ["Laravel", "Symfony", "WordPress Core", "Electron", ".Net"],
-    myDataBases: ["MongoDB", "SQLite", "MySQL", "PostgreSQL", "SQL Server"],
-    myDeveloperTools: ["Visual Studio Code", "Git", "Github", "CodeStream", "Figma"],
-    myOtherDeveloperTools: ["Visual Studio", "Notion", "AppGyver"],
-    IWorkIn: ["Linux", "Mac OS", "Windows", "Bash Shell", "Z Shell", "Powershell"],
+    myCodeIn: ["HTML", "CSS", "JavaScript", "PHP", "Python", "C#", "Object Pascal"],
+    myCodeWith: ["Bootstrap", "Sass", "Tailwind CSS", "jQuery", "TypeScript"],
+    myCodeFrameworks: ["Node.js", "Express.js", "React.js", "React Native"],
+    myOtherCodeFrameworks: ["Laravel", "WordPress Core", "Electron", ".Net"],
+    myDataBases: ["MongoDB", "SQLite", "MySQL", "MariaDB", "PostgreSQL", "SQL Server"],
+    myDeveloperTools: ["Visual Studio Code", "Git", "Github", "CodeStream", "Android Studio"],
+    myOtherDeveloperTools: ["Visual Studio", "Notion", "AppGyver", "Figma", "RAD Studio"],
+    IWorkIn: ["Linux", "Mac OS", "Windows"],
     askMeAbout: ["Software Development", "Data Analytics", "AI", "IT"],
 };
 ```
@@ -54,4 +53,4 @@ const seyerjo = {
 
 <br/>
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,php,python,cs,bootstrap,jquery,sass,jest,vite,tailwind,styledcomponents,emotion,redux,wordpress,nodejs,expressjs,nextjs,react,laravel,symfony,electron,dotnet,mongodb,sqlite,mysql,postgres,vscode,git,github,figma,visualstudio,linux,bash,powershell)]()
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,python,cs,bootstrap,sass,tailwind,jquery,ts,jest,vite,styledcomponents,emotion,redux,wordpress,nodejs,expressjs,nextjs,react,angular,babel,astro,django,flutter,graphql,webpack,laravel,symfony,electron,dotnet,mongodb,sqlite,mysql,postgres,firebase,vscode,git,github,githubactions,figma,visualstudio,md,androidstudio,linux,bash,powershell,aws,azure,docker,cloudflare,godot,unity)]()
