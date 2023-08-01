@@ -30,13 +30,13 @@ Currently I am deeply involved in the study of the practical application of newl
 
 ```javascript
 const seyerjo = {
-    myCodeIn: ["HTML", "CSS", "JavaScript", "PHP", "Python", "C#", "Object Pascal"],
-    myCodeWith: ["Bootstrap", "Sass", "Tailwind CSS", "jQuery", "TypeScript"],
-    myCodeFrameworks: ["Node.js", "Express.js", "React.js", "React Native"],
-    myOtherCodeFrameworks: ["Laravel", "WordPress Core", "Electron", ".Net"],
-    myDataBases: ["MongoDB", "SQLite", "MySQL", "MariaDB", "PostgreSQL", "SQL Server"],
-    myDeveloperTools: ["Visual Studio Code", "Git", "Github", "CodeStream", "Android Studio"],
-    myOtherDeveloperTools: ["Visual Studio", "Notion", "AppGyver", "Figma", "RAD Studio"],
+    myCodeIn: ["HTML", "CSS", "JavaScript", "PHP", "Python", "Dart", "C#", "Object Pascal"],
+    myCodeWith: ["BEM", "Sass", "Bootstrap", "Tailwind CSS", "jQuery", "TypeScript", "AJAX & Fetch"],
+    myFrameworks: ["Node.js", "Express.js", "React.js", "React Native", "Flutter"],
+    myOtherFrameworks: ["Laravel", "WordPress Core", "Electron", "Django", ".Net"],
+    myDataBases: ["SQLite", "MySQL & MariaDB", "PostgreSQL", "SQL Server", "MongoDB"],
+    myTools: ["Visual Studio Code", "Git", "Github", "CodeStream", "Android Studio", "Visual Studio", "DBeaver"],
+    myOtherTools: ["Laragon", "Valet Linux", "Valet +", "Notion", "AppGyver", "Figma", "RAD Studio", "Studio 3T"],
     IWorkIn: ["Linux", "Mac OS", "Windows"],
     askMeAbout: ["Software Development", "Data Analytics", "AI", "IT"],
 };
@@ -49,8 +49,8 @@ const seyerjo = {
 -   Twitter: [@seyerjo](https://twitter.com/seyerjo "@seyerjo")
 -   LinkedIn: [José Miguel Reyes](https://www.linkedin.com/in/josem-reyes "José Miguel Reyes")
 
-## Some technologies I use to develop software:
+## Some technologies I use and have used for software development:
 
 <br/>
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,python,cs,bootstrap,sass,tailwind,jquery,ts,jest,vite,styledcomponents,emotion,redux,wordpress,nodejs,expressjs,nextjs,react,angular,babel,astro,django,flutter,graphql,webpack,laravel,symfony,electron,dotnet,mongodb,sqlite,mysql,postgres,firebase,vscode,git,github,githubactions,figma,visualstudio,md,androidstudio,linux,bash,powershell,aws,azure,docker,cloudflare,godot,unity)]()
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,python,dart,kotlin,swift,go,c,cpp,cs,java,perl,pug,sass,bootstrap,tailwind,styledcomponents,jquery,ts,materialui,nodejs,expressjs,nextjs,react,angular,nestjs,firebase,astro,apollo,django,flutter,laravel,symfony,electron,dotnet,wordpress,svelte,jenkins,jest,vite,babel,graphql,webpack,reactivex,emotion,redux,mongodb,sqlite,mysql,postgres,vscode,git,github,githubactions,figma,visualstudio,md,androidstudio,eclipse,tensorflow,linux,bash,powershell,aws,azure,docker,kubernetes,openstack,cloudflare,redis,godot,gamemakerstudio,unity)]()
