@@ -30,8 +30,8 @@ Currently I am deeply involved in the study of the practical application of newl
 
 ```javascript
 const seyerjo = {
-    myCodeIn: ["HTML", "CSS", "JavaScript", "PHP", "Python", "Dart", "C#", "Object Pascal"],
-    myCodeWith: ["BEM", "Sass", "Bootstrap", "Tailwind CSS", "jQuery", "TypeScript", "AJAX & Fetch"],
+    myCodeIn: ["HTML", "CSS", "JavaScript", "TypeScript", "Python", "PHP", "Dart", "C#", "Object Pascal"],
+    myCodeWith: ["BEM", "Sass", "Bootstrap", "Tailwind CSS", "jQuery", "AJAX & Fetch"],
     myFrameworks: ["Node.js", "Express.js", "React.js", "React Native", "Flutter"],
     myOtherFrameworks: ["Laravel", "WordPress Core", "Electron", "Django", ".Net"],
     myDataBases: ["SQLite", "MySQL & MariaDB", "PostgreSQL", "SQL Server", "MongoDB"],
@@ -49,8 +49,8 @@ const seyerjo = {
 -   Twitter: [@seyerjo](https://twitter.com/seyerjo "@seyerjo")
 -   LinkedIn: [José Miguel Reyes](https://www.linkedin.com/in/josem-reyes "José Miguel Reyes")
 
-## Some technologies I use and have used for software development:
+## Technologies I use for software development:
 
 <br/>
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,python,dart,kotlin,swift,go,c,cpp,cs,java,perl,pug,sass,bootstrap,tailwind,styledcomponents,jquery,ts,materialui,nodejs,expressjs,nextjs,react,angular,nestjs,firebase,astro,apollo,django,flutter,laravel,symfony,electron,dotnet,wordpress,svelte,jenkins,jest,vite,babel,graphql,webpack,reactivex,emotion,redux,mongodb,sqlite,mysql,postgres,vscode,git,github,githubactions,figma,visualstudio,md,androidstudio,eclipse,tensorflow,linux,bash,powershell,aws,azure,docker,kubernetes,openstack,cloudflare,redis,godot,gamemakerstudio,unity)]()
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,python,php,dart,kotlin,swift,go,c,cpp,cs,java,perl,pug,sass,bootstrap,tailwind,styledcomponents,jquery,materialui,nodejs,expressjs,nextjs,react,angular,nestjs,firebase,astro,apollo,django,flutter,laravel,symfony,electron,dotnet,wordpress,svelte,jenkins,jest,vite,babel,graphql,webpack,reactivex,emotion,redux,mongodb,sqlite,mysql,postgres,vscode,git,github,githubactions,figma,visualstudio,md,androidstudio,eclipse,tensorflow,linux,bash,powershell,aws,azure,docker,kubernetes,openstack,cloudflare,redis,godot,gamemakerstudio,unity)]()
