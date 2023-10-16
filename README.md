@@ -30,13 +30,13 @@ Currently I am deeply involved in the study of the practical application of newl
 
 ```javascript
 const seyerjo = {
-    myCodeIn: ["HTML", "CSS", "JavaScript", "TypeScript", "Python", "PHP", "Dart", "C#", "Object Pascal"],
-    myCodeWith: ["BEM", "Sass", "Bootstrap", "Tailwind CSS", "jQuery", "AJAX & Fetch"],
-    myFrameworks: ["Node.js", "Express.js", "React.js", "React Native", "Flutter"],
-    myOtherFrameworks: ["Laravel", "WordPress Core", "Electron", "Django", ".Net"],
-    myDataBases: ["SQLite", "MySQL & MariaDB", "PostgreSQL", "SQL Server", "MongoDB"],
-    myTools: ["Visual Studio Code", "Git", "Github", "CodeStream", "Android Studio", "Visual Studio", "DBeaver"],
-    myOtherTools: ["Laragon", "Valet Linux", "Valet +", "Notion", "AppGyver", "Figma", "RAD Studio", "Studio 3T"],
+    myActualCodeIn: ["HTML", "CSS", "JavaScript", "TypeScript", "Python", "PHP", "Dart", "C#", "Object Pascal"],
+    myActualCodeWith: ["BEM", "Sass", "Bootstrap", "Tailwind CSS", "AJAX & Fetch", "Astro"],
+    myActualFrameworks: ["Node.js", "Express.js", "React.js", "React Native", "Flutter"],
+    myOtherActualFrameworks: ["Laravel", "WordPress Core", "Electron", "Django", ".Net"],
+    myActualDataBases: ["SQLite", "MySQL & MariaDB", "PostgreSQL", "SQL Server", "MongoDB"],
+    myActualTools: ["Visual Studio Code", "Git", "Github", "Android Studio", "Visual Studio", "DBeaver"],
+    myOtherActualTools: ["Laragon", "Valet Linux", "Valet+", "Notion", "AppGyver", "Figma", "RAD Studio"],
     IWorkIn: ["Linux", "Mac OS", "Windows"],
     askMeAbout: ["Software Development", "Data Analytics", "AI", "IT"],
 };
@@ -49,7 +49,7 @@ const seyerjo = {
 -   Twitter: [@seyerjo](https://twitter.com/seyerjo "@seyerjo")
 -   LinkedIn: [José Miguel Reyes](https://www.linkedin.com/in/josem-reyes "José Miguel Reyes")
 
-## Technologies I use for software development:
+## Technologies, among others, that I use or have used for Software Development and Data Science::
 
 <br/>
 
