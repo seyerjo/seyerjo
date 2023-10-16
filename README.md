@@ -49,7 +49,7 @@ const seyerjo = {
 -   Twitter: [@seyerjo](https://twitter.com/seyerjo "@seyerjo")
 -   LinkedIn: [José Miguel Reyes](https://www.linkedin.com/in/josem-reyes "José Miguel Reyes")
 
-## Technologies, among others, that I use or have used for Software Development and Data Science::
+## Technologies that I have used for Software Development and Data Science::
 
 <br/>
 
