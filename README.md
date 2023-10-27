@@ -54,3 +54,5 @@ const seyerjo = {
 <br/>
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,python,php,dart,kotlin,swift,go,c,cpp,cs,java,perl,pug,sass,bootstrap,tailwind,styledcomponents,jquery,materialui,nodejs,expressjs,nextjs,react,angular,nestjs,firebase,astro,apollo,django,flutter,laravel,symfony,electron,dotnet,wordpress,svelte,jenkins,jest,vite,babel,graphql,webpack,reactivex,emotion,redux,mongodb,sqlite,mysql,postgres,vscode,git,github,githubactions,figma,visualstudio,md,androidstudio,eclipse,tensorflow,linux,bash,powershell,aws,azure,docker,kubernetes,openstack,cloudflare,redis,godot,gamemakerstudio,unity)]()
+
+[//]: # (TODO: Add the normal badges of the AI technologies that I use)
