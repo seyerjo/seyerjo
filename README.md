@@ -7,7 +7,7 @@
 <br/>
 
 <p align="justify">
-I am an IT Consultant, specialising in Software Development for the Web, mobile devices and for Windows, Linux and Mac OS desktops, as well as in the application of Data Analytics and Artificial Intelligence to Business Processes.
+I am an IT Consultant, specializing in Software Development for the Web, mobile devices and for Windows, Linux and Mac OS desktops, as well as in the application of Data Analytics and Artificial Intelligence to Business Processes.
 </p>
 
 <p align="justify">
