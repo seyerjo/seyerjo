@@ -32,7 +32,7 @@ Currently I am deeply involved in the study of the practical application of newl
 const seyerjo = {
     myActualCodeIn: ["HTML", "CSS", "JavaScript", "TypeScript", "Python", "PHP", "Dart", "C#", "Object Pascal"],
     myActualCodeWith: ["BEM", "Sass", "Bootstrap", "Tailwind CSS", "AJAX & Fetch", "Astro"],
-    myActualFrameworks: ["Node.js", "Express.js", "React.js", "React Native", "Flutter"],
+    myActualFrameworks: ["Node.js", "Express.js", "Next.js", "React.js", "React Native", "Flutter"],
     myOtherActualFrameworks: ["Laravel", "WordPress Core", "Electron", "Django", ".Net"],
     myActualDataBases: ["SQLite", "MySQL & MariaDB", "PostgreSQL", "SQL Server", "MongoDB", "Interbase"],
     myActualTools: ["Visual Studio Code", "Git", "Github", "Android Studio", "Visual Studio", "DBeaver"],
