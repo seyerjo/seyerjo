@@ -15,7 +15,7 @@ I love looking for and finding solutions to problems through technology and I ge
 </p>
 
 <p align="justify">
-Throughout my professional career I have acquired another set of skills that allow me to help every day all those people who rely on my work: Systems Administration, Cybersecurity or IT Infrastructure and Process Management, among many others.
+Throughout my professional career I have acquired another set of skills that allow me to help every day all those people who rely on my work: Notion Expert, Systems Administration, Cybersecurity or IT Infrastructure and Process Management, among many others.
 </p>
 
 <p align="justify">
