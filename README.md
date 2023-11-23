@@ -110,4 +110,7 @@ const seyerjo = {
 
 <div align="center">
     [![X - Twitter](https://github.com/seyerjo/seyerjo/blob/main/assets/x.svg)](https://twitter.com/seyerjo)
+    [![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://digitalocean.com)
 </div>
+
+[![X - Twitter](https://github.com/seyerjo/seyerjo/blob/main/assets/x.svg)](https://twitter.com/seyerjo)
