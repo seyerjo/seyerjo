@@ -26,8 +26,6 @@ When I'm not programming or consulting, I'm doing the "typical things" of CEOs a
 Currently I am deeply involved in the study of the practical application of newly emerging Data Science and Artificial Intelligence based tools to increase the productivity of IT processes through programming.
 </p>
 
-<br/>
-
 ```javascript
 const seyerjo = {
     pronouns: ["he", "him"],
@@ -35,8 +33,6 @@ const seyerjo = {
     askMeAbout: ["Software Development", "Data Science", "AI", "IT"],
 };
 ```
-<br/>
-
 <h2 align="center">
     ⌨️ I am currently programming with ...
 </h2>
