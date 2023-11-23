@@ -1,5 +1,7 @@
 <img src="./assets/github-profile-banner.jpg" />
 
+<br/>
+
 <h2 align="center">
     👋 console.log("Hi!, I’m José Miguel Reyes");
 </h2>
@@ -35,6 +37,8 @@ const seyerjo = {
     askMeAbout: ["Software Development", "Data Science", "AI", "IT"],
 };
 ```
+<br/>
+
 <h2 align="center">
     ⌨️ I am currently programming with ...
 </h2>
@@ -43,14 +47,14 @@ const seyerjo = {
 
 <div align="center">
     <img src="./assets/html5.svg" alt="HTML5" height="50px" title="HTML5" />
-    <img src="./assets/css3.svg" alt="CSS3" height="50px" />
-    <img src="./assets/javascript.svg" alt="JavaScript" height="50px" />
-    <img src="./assets/typescript.svg" alt="TypeScript" height="50px" />
-    <img src="./assets/python.svg" alt="Python" height="50px" />
-    <img src="./assets/php.svg" alt="PHP" height="50px" />
-    <img src="./assets/csharp.svg" alt="C#" height="50px" />
-    <img src="./assets/dart.svg" alt="Dart" height="50px" />
-    <img src="./assets/delphi.svg" alt="Object Pascal - Delphi" height="50px" />
+    <img src="./assets/css3.svg" alt="CSS3" height="50px" title="CSS3" />
+    <img src="./assets/javascript.svg" alt="JavaScript" height="50px" title="JavaScript" />
+    <img src="./assets/typescript.svg" alt="TypeScript" height="50px" title="TypeScript" />
+    <img src="./assets/python.svg" alt="Python" height="50px" title="Python" />
+    <img src="./assets/php.svg" alt="PHP" height="50px" title="PHP" />
+    <img src="./assets/csharp.svg" alt="C#" height="50px" title="C#" />
+    <img src="./assets/dart.svg" alt="Dart" height="50px" title="Dart" />
+    <img src="./assets/delphi.svg" alt="Object Pascal - Delphi" height="50px" title="Object Pascal - Delphi" />
 </div>
 
 <h2 align="center">
@@ -117,6 +121,10 @@ const seyerjo = {
 <br/>
 
 <div align="center">
-    <a href="https://twitter.com/seyerjo" target="_blank"><img src="./assets/x.svg" alt="X (Twitter)" height="50px" /></a>
-    <a href="https://www.linkedin.com/in/josem-reyes" target="_blank"><img src="./assets/linkedin.svg" alt="LinkedIn" height="50px" /></a>
+    <a href="https://twitter.com/seyerjo" target="_blank">
+        <img src="./assets/x.svg" alt="X (Twitter)" height="50px" />
+    </a>
+    <a href="https://www.linkedin.com/in/josem-reyes" target="_blank">
+        <img src="./assets/linkedin.svg" alt="LinkedIn" height="50px" />
+    </a>
 </div>
