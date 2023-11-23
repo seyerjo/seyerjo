@@ -101,9 +101,3 @@ const seyerjo = {
     <img src="./assets/markdown.svg" alt="Markdown" height="50px" title="Markdown" />
     <img src="./assets/notion.svg" alt="Notion" height="50px" title="Notion" />
 </div>
-
-<h2 align="center">
-    📲 Find me in ...
-</h2>
-
-<br/>
