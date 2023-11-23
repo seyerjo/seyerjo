@@ -109,10 +109,10 @@ const seyerjo = {
 <br/>
 
 <div align="center">
-    <a href="https://twitter.com/seyerjo" target="_blank">
-        <img src="./assets/x.svg" alt="X (Twitter)" height="50px" />
+    <a href="https://twitter.com/seyerjo" rel="nofollow" target="_blank">
+        <img src="./assets/x.svg" alt="X (Twitter)" height="35px" title="X (Twitter)" />
     </a>
-    <a href="https://www.linkedin.com/in/josem-reyes" target="_blank">
-        <img src="./assets/linkedin.svg" alt="LinkedIn" height="50px" />
+    <a href="https://www.linkedin.com/in/josem-reyes" rel="nofollow" target="_blank">
+        <img src="./assets/linkedin.svg" alt="LinkedIn" height="35px" title="LinkedIn"/>
     </a>
 </div>
