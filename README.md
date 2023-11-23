@@ -32,7 +32,7 @@ Currently I am deeply involved in the study of the practical application of newl
 const seyerjo = {
     pronouns: ["he", "him"],
     passions: ["Web Development", "Mobile Development", "Desktop Development", "Data Science", "AI"],
-    askMeAbout: ["Software Development", "Data Analytics", "Data Science", "AI", "IT"],
+    askMeAbout: ["Software Development", "Data Science", "AI", "IT"],
 };
 ```
 <h2 align="center">
@@ -42,7 +42,7 @@ const seyerjo = {
 <br/>
 
 <div align="center">
-    <img src="./assets/html5.svg" alt="HTML5" height="50px" />
+    <img src="./assets/html5.svg" alt="HTML5" height="50px" title="HTML5" />
     <img src="./assets/css3.svg" alt="CSS3" height="50px" />
     <img src="./assets/javascript.svg" alt="JavaScript" height="50px" />
     <img src="./assets/typescript.svg" alt="TypeScript" height="50px" />
@@ -117,6 +117,6 @@ const seyerjo = {
 <br/>
 
 <div align="center">
-    <a href="https://twitter.com/seyerjo" target=""_blank><img src="./assets/x.svg" alt="X (Twitter)" height="50px" /></a>
+    <a href="https://twitter.com/seyerjo" target="_blank"><img src="./assets/x.svg" alt="X (Twitter)" height="50px" /></a>
     <a href="https://www.linkedin.com/in/josem-reyes" target="_blank"><img src="./assets/linkedin.svg" alt="LinkedIn" height="50px" /></a>
 </div>
