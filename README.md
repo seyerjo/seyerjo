@@ -1,7 +1,5 @@
 <img src="./assets/github-profile-banner.jpg" />
 
-<br/>
-
 <h2 align="center">
     👋 console.log("Hi!, I’m José Miguel Reyes");
 </h2>
