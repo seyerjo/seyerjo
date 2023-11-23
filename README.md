@@ -52,58 +52,58 @@ const seyerjo = {
 </div>
 
 <div align="center">
-    <img src="./assets/bem.svg" alt="BEM" height="50px" />
-    <img src="./assets/sass.svg" alt="Sass" height="50px" />
-    <img src="./assets/bootstrap.svg" alt="Bootstrap" height="50px" />
-    <img src="./assets/tailwindcss.svg" alt="Tailwind CSS" height="50px" />
-    <img src="./assets/astro.svg" alt="Astro" height="50px" />
-    <img src="./assets/nodedotjs.svg" alt="Node.JS" height="50px" />
-    <img src="./assets/express.svg" alt="Express.JS" height="50px" />
-    <img src="./assets/nextdotjs.svg" alt="Next.JS" height="50px" />
-    <img src="./assets/react.svg" alt="React.JS & React Native" height="50px" />
-    <img src="./assets/electron.svg" alt="Electron" height="50px" />
+    <img src="./assets/bem.svg" alt="BEM" height="50px" title="BEM" />
+    <img src="./assets/sass.svg" alt="Sass" height="50px" title="Sass" />
+    <img src="./assets/bootstrap.svg" alt="Bootstrap" height="50px" title="Bootstrap" />
+    <img src="./assets/tailwindcss.svg" alt="Tailwind CSS" height="50px" title="Tailwind CSS" />
+    <img src="./assets/astro.svg" alt="Astro" height="50px" title="Astro" />
+    <img src="./assets/nodedotjs.svg" alt="Node.JS" height="50px" title="Node.JS" />
+    <img src="./assets/express.svg" alt="Express.JS" height="50px" title="Express.JS" />
+    <img src="./assets/nextdotjs.svg" alt="Next.JS" height="50px" title="Next.JS" />
+    <img src="./assets/react.svg" alt="React.JS & React Native" height="50px" title="React.JS & React Native" />
+    <img src="./assets/electron.svg" alt="Electron" height="50px" title="Electron" />
 </div>
 
 <div align="center">
-    <img src="./assets/django.svg" alt="Django" height="50px" />
-    <img src="./assets/laravel.svg" alt="Laravel" height="50px" />
-    <img src="./assets/wordpress.svg" alt="WordPress Core" height="50px" />
-    <img src="./assets/dotnet.svg" alt=".NET" height="50px" />
-    <img src="./assets/flutter.svg" alt="Flutter" height="50px" />
-    <img src="./assets/sqlite.svg" alt="SQLite" height="50px" />
-    <img src="./assets/mysql.svg" alt="MySQL" height="50px" />
-    <img src="./assets/mariadb.svg" alt="MariaDB.JS" height="50px" />
-    <img src="./assets/postgresql.svg" alt="PostgreSQL" height="50px" />
-    <img src="./assets/mongodb.svg" alt="MongoDB" height="50px" />
+    <img src="./assets/django.svg" alt="Django" height="50px" title="Django" />
+    <img src="./assets/laravel.svg" alt="Laravel" height="50px" title="Laravel" />
+    <img src="./assets/wordpress.svg" alt="WordPress Core" height="50px" title="WordPress Core" />
+    <img src="./assets/dotnet.svg" alt=".NET" height="50px" title=".NET" />
+    <img src="./assets/flutter.svg" alt="Flutter" height="50px" title="Flutter" />
+    <img src="./assets/sqlite.svg" alt="SQLite" height="50px" title="SQLite" />
+    <img src="./assets/mysql.svg" alt="MySQL" height="50px" title="MySQL" />
+    <img src="./assets/mariadb.svg" alt="MariaDB" height="50px" title="MariaDB" />
+    <img src="./assets/postgresql.svg" alt="PostgreSQL" height="50px" title="PostgreSQL" />
+    <img src="./assets/mongodb.svg" alt="MongoDB" height="50px" title="MongoDB" />
 </div>
 
 <div align="center">
-    <img src="./assets/microsoftsqlserver.svg" alt="Microsoft SQL Server" height="50px" />
-    <img src="./assets/git.svg" alt="Git" height="50px" />
-    <img src="./assets/github.svg" alt="GitHub" height="50px" />
-    <img src="./assets/visualstudiocode.svg" alt="Visual Studio Code" height="50px" />
-    <img src="./assets/androidstudio.svg" alt="Android Studio" height="50px" />
-    <img src="./assets/visualstudio.svg" alt="Visual Studio" height="50px" />
-    <img src="./assets/radstudio.svg" alt="RAD Studio" height="50px" />
-    <img src="./assets/xampp.svg" alt="XAMPP" height="50px" />
-    <img src="./assets/mamp.svg" alt="MAMP" height="50px" />
-    <img src="./assets/laragon.svg" alt="Laragon" height="50px" />
+    <img src="./assets/microsoftsqlserver.svg" alt="Microsoft SQL Server" height="50px" title="Microsoft SQL Server" />
+    <img src="./assets/git.svg" alt="Git" height="50px" title="Git" />
+    <img src="./assets/github.svg" alt="GitHub" height="50px" title="GitHub" />
+    <img src="./assets/visualstudiocode.svg" alt="Visual Studio Code" height="50px" title="Visual Studio Code" />
+    <img src="./assets/androidstudio.svg" alt="Android Studio" height="50px" title="Android Studio" />
+    <img src="./assets/visualstudio.svg" alt="Visual Studio" height="50px" title="Visual Studio" />
+    <img src="./assets/radstudio.svg" alt="RAD Studio" height="50px" title="RAD Studio" />
+    <img src="./assets/xampp.svg" alt="XAMPP" height="50px" title="XAMPP" />
+    <img src="./assets/mamp.svg" alt="MAMP" height="50px" title="MAMP" />
+    <img src="./assets/laragon.svg" alt="Laragon" height="50px" title="Laragon" />
 </div>
 
 <div align="center">
-    <img src="./assets/local.svg" alt="Local by Flywheel" height="50px" />
-    <img src="./assets/figma.svg" alt="Figma" height="50px" />
-    <img src="./assets/linux.svg" alt="Linux" height="50px" />
-    <img src="./assets/macos.svg" alt="MacOS" height="50px" />
-    <img src="./assets/windows.svg" alt="Windows" height="50px" />
-    <img src="./assets/gnubash.svg" alt="GNU Bash" height="50px" />
-    <img src="./assets/powershell.svg" alt="Powershell" height="50px" />
-    <img src="./assets/markdown.svg" alt="Markdown" height="50px" />
-    <img src="./assets/notion.svg" alt="Notion" height="50px" />
+    <img src="./assets/local.svg" alt="Local by Flywheel" height="50px" title="Local by Flywheel" />
+    <img src="./assets/figma.svg" alt="Figma" height="50px" title="Figma" />
+    <img src="./assets/linux.svg" alt="Linux" height="50px" title="Linux" />
+    <img src="./assets/macos.svg" alt="MacOS" height="50px" title="MacOS" />
+    <img src="./assets/windows.svg" alt="Windows" height="50px" title="Windows" />
+    <img src="./assets/gnubash.svg" alt="GNU Bash" height="50px" title="GNU Bash" />
+    <img src="./assets/powershell.svg" alt="Powershell" height="50px" title="Powershell" />
+    <img src="./assets/markdown.svg" alt="Markdown" height="50px" title="Markdown" />
+    <img src="./assets/notion.svg" alt="Notion" height="50px" title="Notion" />
 </div>
 
 <h2 align="center">
-    ⌨️ Find me in ...
+    📲 Find me in ...
 </h2>
 
 <br/>
