@@ -34,7 +34,7 @@ const seyerjo = {
 };
 ```
 <h2 align="center">
-    ⌨️ I am currently programming with ...
+    ⌨️ I am currently programming with these languages and technologies...
 </h2>
 
 <br/>
@@ -50,12 +50,6 @@ const seyerjo = {
     <img src="./assets/dart.svg" alt="Dart" height="50px" title="Dart" />
     <img src="./assets/delphi.svg" alt="Object Pascal - Delphi" height="50px" title="Object Pascal - Delphi" />
 </div>
-
-<h2 align="center">
-    ⚙️ And I use the following technologies ...
-</h2>
-
-<br/>
 
 <div align="center">
     <img src="./assets/bem.svg" alt="BEM" height="50px" />
