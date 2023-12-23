@@ -46,13 +46,10 @@ const seyerjo = {
     <img src="./assets/typescript.svg" alt="TypeScript" height="50px" title="TypeScript" />
     <img src="./assets/python.svg" alt="Python" height="50px" title="Python" />
     <img src="./assets/php.svg" alt="PHP" height="50px" title="PHP" />
-    <img src="./assets/csharp.svg" alt="C#" height="50px" title="C#" />
-    <img src="./assets/dart.svg" alt="Dart" height="50px" title="Dart" />
     <img src="./assets/delphi.svg" alt="Object Pascal - Delphi" height="50px" title="Object Pascal - Delphi" />
 </div>
 
 <div align="center">
-    <img src="./assets/bem.svg" alt="BEM" height="50px" title="BEM" />
     <img src="./assets/sass.svg" alt="Sass" height="50px" title="Sass" />
     <img src="./assets/bootstrap.svg" alt="Bootstrap" height="50px" title="Bootstrap" />
     <img src="./assets/tailwindcss.svg" alt="Tailwind CSS" height="50px" title="Tailwind CSS" />
@@ -68,8 +65,6 @@ const seyerjo = {
     <img src="./assets/django.svg" alt="Django" height="50px" title="Django" />
     <img src="./assets/laravel.svg" alt="Laravel" height="50px" title="Laravel" />
     <img src="./assets/wordpress.svg" alt="WordPress Core" height="50px" title="WordPress Core" />
-    <img src="./assets/dotnet.svg" alt=".NET" height="50px" title=".NET" />
-    <img src="./assets/flutter.svg" alt="Flutter" height="50px" title="Flutter" />
     <img src="./assets/sqlite.svg" alt="SQLite" height="50px" title="SQLite" />
     <img src="./assets/mysql.svg" alt="MySQL" height="50px" title="MySQL" />
     <img src="./assets/mariadb.svg" alt="MariaDB" height="50px" title="MariaDB" />
@@ -78,12 +73,10 @@ const seyerjo = {
 </div>
 
 <div align="center">
-    <img src="./assets/microsoftsqlserver.svg" alt="Microsoft SQL Server" height="50px" title="Microsoft SQL Server" />
     <img src="./assets/git.svg" alt="Git" height="50px" title="Git" />
     <img src="./assets/github.svg" alt="GitHub" height="50px" title="GitHub" />
     <img src="./assets/visualstudiocode.svg" alt="Visual Studio Code" height="50px" title="Visual Studio Code" />
     <img src="./assets/androidstudio.svg" alt="Android Studio" height="50px" title="Android Studio" />
-    <img src="./assets/visualstudio.svg" alt="Visual Studio" height="50px" title="Visual Studio" />
     <img src="./assets/radstudio.svg" alt="RAD Studio" height="50px" title="RAD Studio" />
     <img src="./assets/xampp.svg" alt="XAMPP" height="50px" title="XAMPP" />
     <img src="./assets/mamp.svg" alt="MAMP" height="50px" title="MAMP" />
