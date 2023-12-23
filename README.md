@@ -87,7 +87,7 @@ const seyerjo = {
     <img src="./assets/local.svg" alt="Local by Flywheel" height="50px" title="Local by Flywheel" />
     <img src="./assets/figma.svg" alt="Figma" height="50px" title="Figma" />
     <img src="./assets/linux.svg" alt="Linux" height="50px" title="Linux" />
-    <img src="./assets/macos.svg" alt="MacOS" height="50px" title="MacOS" />
+    <img src="./assets/macos.png" alt="MacOS" height="50px" title="MacOS" />
     <img src="./assets/windows.svg" alt="Windows" height="50px" title="Windows" />
     <img src="./assets/gnubash.svg" alt="GNU Bash" height="50px" title="GNU Bash" />
     <img src="./assets/powershell.svg" alt="Powershell" height="50px" title="Powershell" />
