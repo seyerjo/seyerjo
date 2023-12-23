@@ -92,5 +92,5 @@ const seyerjo = {
     <img src="./assets/gnubash.svg" alt="GNU Bash" height="50px" title="GNU Bash" />
     <img src="./assets/powershell.svg" alt="Powershell" height="50px" title="Powershell" />
     <img src="./assets/markdown.svg" alt="Markdown" height="50px" title="Markdown" />
-    <img src="./assets/notion.svg" alt="Notion" height="50px" title="Notion" />
+    <img src="./assets/notion.png" alt="Notion" height="50px" title="Notion" />
 </div>
