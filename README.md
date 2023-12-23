@@ -19,7 +19,7 @@ Throughout my professional career I have acquired another set of skills that all
 </p>
 
 <p align="justify">
-When I'm not programming or consulting, I'm doing the "typical things" of CEOs and Founders of a company, collaborating with the IT Community or learning new things.
+When I'm not programming or consulting, I'm collaborating with the IT Community or learning new things.
 </p>
 
 <p align="justify">
