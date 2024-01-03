@@ -94,3 +94,21 @@ const seyerjo = {
     <img src="./assets/markdown.svg" alt="Markdown" height="50px" title="Markdown" />
     <img src="./assets/notion.png" alt="Notion" height="50px" title="Notion" />
 </div>
+
+<div align="center">
+    <img src="./assets/android.svg" alt="Android" height="50px" title="Android" />
+    <img src="./assets/apache.svg" alt="Apache Server" height="50px" title="Apache Server" />
+    <img src="./assets/nginx.svg" alt="Nginx Server" height="50px" title="Nginx Server" />
+    <img src="./assets/cpanel.svg" alt="cPanel" height="50px" title="cPanel" />
+    <img src="./assets/plesk.svg" alt="Plesk" height="50px" title="Plesk" />
+    <img src="./assets/amazonaws.svg" alt="Amazon Web Services" height="50px" title="Amazon Web Services" />
+    <img src="./assets/cloudflare.svg" alt="Cloudflare" height="50px" title="Cloudflare" />
+</div>
+
+<div align="center">
+    <img src="./assets/docker.svg" alt="Docker" height="50px" title="Docker" /> 
+    <img src="./assets/googlecloud.svg" alt="Google Cloud" height="50px" title="Google Cloud" />
+    <img src="./assets/microsoftazure.svg" alt="Microsoft Azure" height="50px" title="Microsoft Azure" />
+    <img src="./assets/vmware.svg" alt="VMware Infrastructure" height="50px" title="VMware Infrastructure" />
+    <img src="./assets/openai.svg" alt="Open AI" height="50px" title="Open AI" />
+</div>
