@@ -7,7 +7,7 @@
 <br/>
 
 <p align="justify">
-I am an IT Consultant, specializing in Software Development for the Web, mobile devices and for Windows, Linux and Mac OS desktops, as well as in the application of Data Analytics and Artificial Intelligence to Business Processes.
+I am an IT Consultant, specializing in Software Development for the Web, mobile devices and for Windows, Linux and MacOS desktops, as well as in Cybersecurity and the application of Data Analytics and Artificial Intelligence to Business Processes.
 </p>
 
 <p align="justify">
@@ -15,7 +15,7 @@ I love looking for and finding solutions to problems through technology and I ge
 </p>
 
 <p align="justify">
-Throughout my professional career I have acquired another set of skills that allow me to help every day all those people who rely on my work: Systems Administration, Cybersecurity or IT Infrastructure and Process Management, among many others.
+Throughout my professional career I have acquired another set of skills that allow me to help every day all those people who rely on my work, such as Systems Administration or IT Infrastructure and Process Management, among many others.
 </p>
 
 <p align="justify">
@@ -23,7 +23,7 @@ When I'm not programming or consulting, I'm collaborating with the IT Community 
 </p>
 
 <p align="justify">
-Currently I am deeply involved in the study of the practical application of newly emerging Data Science and Artificial Intelligence based tools to increase the productivity of IT processes through programming.
+Currently, I am deeply involved in the study of the recently emerged tools based on Data Science and Artificial Intelligence and their impact on increasing the productivity of IT processes, either through their direct application or through solutions programmed for this purpose.
 </p>
 
 ```javascript
