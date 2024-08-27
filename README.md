@@ -34,19 +34,18 @@ const seyerjo = {
 };
 ```
 <h2 align="center">
-    ⌨️ I am currently working with these technologies...
+    ⌨️ Technologies that I currently use in the projects I develop ...
 </h2>
 
 <br/>
 
 <div align="center">
-    <img src="./assets/html5.svg" alt="HTML5" height="50px" title="HTML5" />
-    <img src="./assets/css3.svg" alt="CSS3" height="50px" title="CSS3" />
+    <img src="./assets/html5.svg" alt="HTML" height="50px" title="HTML" />
+    <img src="./assets/css3.svg" alt="CSS" height="50px" title="CSS" />
     <img src="./assets/javascript.svg" alt="JavaScript" height="50px" title="JavaScript" />
-    <img src="./assets/typescript.svg" alt="TypeScript" height="50px" title="TypeScript" />
     <img src="./assets/python.svg" alt="Python" height="50px" title="Python" />
     <img src="./assets/php.svg" alt="PHP" height="50px" title="PHP" />
-    <img src="./assets/delphi.svg" alt="Object Pascal - Delphi" height="50px" title="Object Pascal - Delphi" />
+    <img src="./assets/delphi.svg" alt="Object Pascal (Delphi)" height="50px" title="Object Pascal (Delphi)" />
 </div>
 
 <div align="center">
@@ -57,11 +56,12 @@ const seyerjo = {
     <img src="./assets/nodedotjs.svg" alt="Node.JS" height="50px" title="Node.JS" />
     <img src="./assets/express.svg" alt="Express.JS" height="50px" title="Express.JS" />
     <img src="./assets/nextdotjs.svg" alt="Next.JS" height="50px" title="Next.JS" />
-    <img src="./assets/react.svg" alt="React.JS & React Native" height="50px" title="React.JS & React Native" />
-    <img src="./assets/electron.svg" alt="Electron" height="50px" title="Electron" />
+    <img src="./assets/typescript.svg" alt="TypeScript" height="50px" title="TypeScript" />
 </div>
 
 <div align="center">
+    <img src="./assets/react.svg" alt="React.JS & React Native" height="50px" title="React.JS & React Native" />
+    <img src="./assets/electron.svg" alt="Electron" height="50px" title="Electron" />
     <img src="./assets/django.svg" alt="Django" height="50px" title="Django" />
     <img src="./assets/laravel.svg" alt="Laravel" height="50px" title="Laravel" />
     <img src="./assets/wordpress.svg" alt="WordPress Core" height="50px" title="WordPress Core" />
