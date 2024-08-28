@@ -112,5 +112,6 @@ const seyerjo = {
     <img src="./assets/microsoftazure.svg" alt="Microsoft Azure" height="50px" title="Microsoft Azure" />
     <img src="./assets/vmware.svg" alt="VMware Infrastructure" height="50px" title="VMware Infrastructure" />
     <img src="./assets/openai.svg" alt="Open AI" height="50px" title="Open AI" />
-    <img src="./assets/numpy.svg" alt="NumPy AI" height="50px" title="NumPy" />
+    <img src="./assets/numpy.svg" alt="NumPy" height="50px" title="NumPy" />
+    <img src="./assets/tensorflow.svg" alt="Tensorflow" height="50px" title="Tensorflow" />
 </div>
