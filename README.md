@@ -34,7 +34,7 @@ const seyerjo = {
 };
 ```
 <h2 align="center">
-    ⌨️ Technologies that I currently use in the projects I develop ...
+    ⌨️ I am currently developing with ...
 </h2>
 
 <br/>
