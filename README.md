@@ -97,6 +97,7 @@ const seyerjo = {
 
 <div align="center">
     <img src="./assets/android.svg" alt="Android" height="50px" title="Android" />
+    <img src="./assets/ios.svg" alt="iOS" height="50px" title="iOS" />
     <img src="./assets/apache.svg" alt="Apache Server" height="50px" title="Apache Server" />
     <img src="./assets/nginx.svg" alt="Nginx Server" height="50px" title="Nginx Server" />
     <img src="./assets/cpanel.svg" alt="cPanel" height="50px" title="cPanel" />
