@@ -90,6 +90,7 @@ const seyerjo = {
     <img src="./assets/macos.png" alt="MacOS" height="50px" title="MacOS" />
     <img src="./assets/windows.svg" alt="Windows" height="50px" title="Windows" />
     <img src="./assets/gnubash.svg" alt="GNU Bash" height="50px" title="GNU Bash" />
+    <img src="./assets/zsh.svg" alt="Z-Shell" height="50px" title="Z-Shell" />
     <img src="./assets/powershell.svg" alt="Powershell" height="50px" title="Powershell" />
     <img src="./assets/markdown.svg" alt="Markdown" height="50px" title="Markdown" />
     <img src="./assets/notion.png" alt="Notion" height="50px" title="Notion" />
