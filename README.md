@@ -29,7 +29,7 @@ Currently, I am deeply involved in the study of the recently emerged tools based
 ```javascript
 const seyerjo = {
     pronouns: ["he", "him"],
-    passions: ["Web Development", "Mobile Development", "Desktop Development", "Data Science", "AI"],
+    passions: ["Web, Mobile and Desktop Development", "Data Science", "AI"],
     askMeAbout: ["Software Development", "Data Science", "AI", "IT"],
 };
 ```
