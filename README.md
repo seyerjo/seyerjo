@@ -7,23 +7,23 @@
 <br/>
 
 <p align="justify">
-I am an IT Consultant, specializing in Software Development for the Web, mobile devices and for Windows, Linux and MacOS desktops, as well as in Cybersecurity and the application of Data Analytics and Artificial Intelligence to Business Processes.
+I am an Information Technology Consultant, specializing in the application of Data Analysis and Artificial Intelligence to Business Processes, in Cybersecurity, and in Software Development for the Web, mobile devices, and for Windows, Linux, and macOS desktops.
 </p>
 
 <p align="justify">
-I love looking for and finding solutions to problems through technology and I get involved in all phases of the projects I work on, from planning to production, to ensure that the end result is the best possible.
+I love seeking and finding solutions to problems through technology and I am involved in all phases of the projects I work on, from planning to production, to ensure that the final result is the best possible.
 </p>
 
 <p align="justify">
-Throughout my professional career I have acquired another set of skills that allow me to help every day all those people who rely on my work, such as Systems Administration or IT Infrastructure and Process Management, among many others.
+Throughout my professional career, I have acquired another set of skills that allow me to help all those who trust in my work every day, such as Systems Administration or the design, implementation, and management of IT Infrastructures and Processes, among many others.
 </p>
 
 <p align="justify">
-When I'm not programming or consulting, I'm collaborating with the IT Community or learning new things.
+When I'm not programming or attending consultations, I'm collaborating with the IT Community or learning new things.
 </p>
 
 <p align="justify">
-Currently, I am deeply involved in the study of the recently emerged tools based on Data Science and Artificial Intelligence and their impact on increasing the productivity of IT processes, either through their direct application or through solutions programmed for this purpose.
+Currently, I am fully immersed in the study and analysis of recently emerged Data Science and Artificial Intelligence-based tools and their impact on Cybersecurity or on the effective increase in productivity of IT processes in companies, either through their direct application or through purpose-programmed solutions.
 </p>
 
 ```javascript
