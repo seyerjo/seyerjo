@@ -29,12 +29,12 @@ Currently, I am fully immersed in the study and analysis of recently emerged Dat
 ```javascript
 const seyerjo = {
     pronouns: ["he", "him"],
-    passions: ["Web, Mobile and Desktop Development", "Data Science", "AI"],
-    askMeAbout: ["Software Development", "Data Science", "AI", "IT"],
+    passions: ["Web, Mobile and Desktop Development", "Data Science", "AI", "Cybersecurity"],
+    askMeAbout: ["Software Development", "Data Science", "AI", "Cybersecurity", "IT"],
 };
 ```
 <h2 align="center">
-    ⌨️ I am currently using ...
+    ⌨️ Some Technologies I have used in my projects ...
 </h2>
 
 <br/>
