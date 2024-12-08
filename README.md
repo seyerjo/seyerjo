@@ -7,7 +7,7 @@
 <br/>
 
 <p align="justify">
-I am an Information Technology Consultant, specializing in the application of Data Analysis and Artificial Intelligence to Business Processes, in Cybersecurity, and in Software Development for the Web, mobile devices, and for Windows, Linux, and macOS desktops.
+I am an IT Consultant, specialized in the application of Data Analytics and Artificial Intelligence in the automation and productivity increase of Business Processes, as well as in Software Development for the Web, mobile devices and for Windows, Linux and macOS desktops.
 </p>
 
 <p align="justify">
@@ -15,7 +15,7 @@ I love seeking and finding solutions to problems through technology and I am inv
 </p>
 
 <p align="justify">
-Throughout my professional career, I have acquired another set of skills that allow me to help all those who trust in my work every day, such as Systems Administration or the design, implementation, and management of IT Infrastructures and Processes, among many others.
+Throughout my professional career I have acquired another set of skills that allow me to help every day all those people who rely on my work, such as Systems Administration, design, implementation and management of IT Infrastructures and Processes or Cybersecurity, among many others.
 </p>
 
 <p align="justify">
@@ -23,14 +23,14 @@ When I'm not programming or attending consultations, I'm collaborating with the 
 </p>
 
 <p align="justify">
-Currently, I am fully immersed in the study and analysis of recently emerged Data Science and Artificial Intelligence-based tools and their impact on Cybersecurity or on the effective increase in productivity of IT processes in companies, either through their direct application or through purpose-programmed solutions.
+Currently, I am fully immersed in the study and analysis of recently emerged Data Science and Artificial Intelligence-based tools and their impact on the effective increase in productivity of IT processes in companies, either through their direct application or through purpose-programmed solutions.
 </p>
 
 ```javascript
 const seyerjo = {
     pronouns: ["he", "him"],
-    passions: ["Web, Mobile and Desktop Development", "Data Science", "AI", "Cybersecurity"],
-    askMeAbout: ["Software Development", "Data Science", "AI", "Cybersecurity", "IT"],
+    passions: ["Data Science", "AI", "Web, Mobile and Desktop Development"],
+    askMeAbout: ["Software Development", "Data Science", "AI", "IT"],
 };
 ```
 <h2 align="center">
