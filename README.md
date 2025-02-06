@@ -41,11 +41,12 @@ const seyerjo = {
 
 <div align="center">
     <img src="./assets/html5.svg" alt="HTML" height="50px" title="HTML" />
-    <img src="./assets/css3.svg" alt="CSS" height="50px" title="CSS" />
+    <img src="./assets/css.svg" alt="CSS" height="50px" title="CSS" />
     <img src="./assets/javascript.svg" alt="JavaScript" height="50px" title="JavaScript" />
     <img src="./assets/python.svg" alt="Python" height="50px" title="Python" />
     <img src="./assets/php.svg" alt="PHP" height="50px" title="PHP" />
     <img src="./assets/delphi.svg" alt="Object Pascal (Delphi)" height="50px" title="Object Pascal (Delphi)" />
+    <img src="./assets/csharp.png" alt="C#" height="50px" title="C#" />
 </div>
 
 <div align="center">
