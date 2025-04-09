@@ -67,7 +67,7 @@ const seyerjo = {
     <img src="./assets/django.svg" alt="Django" height="50px" title="Django" />
     <img src="./assets/flask.webp" alt="Flask" height="50px" title="Flask" />
     <img src="./assets/laravel.svg" alt="Laravel" height="50px" title="Laravel" />
-    <img src="./assets/wordpress.svg" alt="WordPress Core" height="50px" title="WordPress Core" />
+    <img src="./assets/wordpress.svg" alt="WordPress Core & Headless" height="50px" title="WordPress Core & Headless" />
     <img src="./assets/sqlite.svg" alt="SQLite" height="50px" title="SQLite" />
     <img src="./assets/mysql.svg" alt="MySQL" height="50px" title="MySQL" />
     <img src="./assets/mariadb.svg" alt="MariaDB" height="50px" title="MariaDB" />
