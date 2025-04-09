@@ -65,7 +65,7 @@ const seyerjo = {
     <img src="./assets/react.svg" alt="React.JS & React Native" height="50px" title="React.JS & React Native" />
     <img src="./assets/electron.svg" alt="Electron" height="50px" title="Electron" />
     <img src="./assets/django.svg" alt="Django" height="50px" title="Django" />
-    <img src="./assets/flask.svg" alt="Django" height="50px" title="Django" />
+    <img src="./assets/flask.webp" alt="Flask" height="50px" title="Flask" />
     <img src="./assets/laravel.svg" alt="Laravel" height="50px" title="Laravel" />
     <img src="./assets/wordpress.svg" alt="WordPress Core" height="50px" title="WordPress Core" />
     <img src="./assets/sqlite.svg" alt="SQLite" height="50px" title="SQLite" />
@@ -79,8 +79,9 @@ const seyerjo = {
     <img src="./assets/git.svg" alt="Git" height="50px" title="Git" />
     <img src="./assets/github.svg" alt="GitHub" height="50px" title="GitHub" />
     <img src="./assets/visualstudiocode.svg" alt="Visual Studio Code" height="50px" title="Visual Studio Code" />
-    <img src="./assets/visualstudio.webp" alt="Visual Studio Code" height="50px" title="Visual Studio Code" />
+    <img src="./assets/visualstudio.webp" alt="Visual Studio" height="50px" title="Visual Studio" />
     <img src="./assets/androidstudio.svg" alt="Android Studio" height="50px" title="Android Studio" />
+        <img src="./assets/xcode.svg" alt="Xcode" height="50px" title="Xcode" />
     <img src="./assets/radstudio.svg" alt="RAD Studio" height="50px" title="RAD Studio" />
     <img src="./assets/xampp.svg" alt="XAMPP" height="50px" title="XAMPP" />
     <img src="./assets/mamp.svg" alt="MAMP" height="50px" title="MAMP" />
@@ -89,32 +90,31 @@ const seyerjo = {
 
 <div align="center">
     <img src="./assets/local.svg" alt="Local by Flywheel" height="50px" title="Local by Flywheel" />
-    <img src="./assets/figma.svg" alt="Figma" height="50px" title="Figma" />
     <img src="./assets/linux.svg" alt="Linux" height="50px" title="Linux" />
     <img src="./assets/macos.png" alt="MacOS" height="50px" title="MacOS" />
     <img src="./assets/windows.svg" alt="Windows" height="50px" title="Windows" />
+    <img src="./assets/android.svg" alt="Android" height="50px" title="Android" />
+    <img src="./assets/ios.svg" alt="iOS" height="50px" title="iOS" />
     <img src="./assets/gnubash.svg" alt="GNU Bash" height="50px" title="GNU Bash" />
     <img src="./assets/zsh.svg" alt="Z-Shell" height="50px" title="Z-Shell" />
     <img src="./assets/powershell.svg" alt="Powershell" height="50px" title="Powershell" />
     <img src="./assets/markdown.svg" alt="Markdown" height="50px" title="Markdown" />
-    <img src="./assets/notion.png" alt="Notion" height="50px" title="Notion" />
 </div>
 
 <div align="center">
-    <img src="./assets/android.svg" alt="Android" height="50px" title="Android" />
-    <img src="./assets/ios.svg" alt="iOS" height="50px" title="iOS" />
-    <img src="./assets/apache.svg" alt="Apache Server" height="50px" title="Apache Server" />
+    <img src="./assets/figma.svg" alt="Figma" height="50px" title="Figma" />
+    <img src="./assets/notion.png" alt="Notion" height="50px" title="Notion" /><img src="./assets/apache.svg" alt="Apache Server" height="50px" title="Apache Server" />
     <img src="./assets/nginx.svg" alt="Nginx Server" height="50px" title="Nginx Server" />
     <img src="./assets/cpanel.svg" alt="cPanel" height="50px" title="cPanel" />
     <img src="./assets/plesk.svg" alt="Plesk" height="50px" title="Plesk" />
     <img src="./assets/amazonaws.svg" alt="Amazon Web Services" height="50px" title="Amazon Web Services" />
-    <img src="./assets/cloudflare.svg" alt="Cloudflare" height="50px" title="Cloudflare" />
+    <img src="./assets/googlecloud.svg" alt="Google Cloud" height="50px" title="Google Cloud" />
+    <img src="./assets/microsoftazure.svg" alt="Microsoft Azure" height="50px" title="Microsoft Azure" />
 </div>
 
 <div align="center">
+    <img src="./assets/cloudflare.svg" alt="Cloudflare" height="50px" title="Cloudflare" />
     <img src="./assets/docker.svg" alt="Docker" height="50px" title="Docker" /> 
-    <img src="./assets/googlecloud.svg" alt="Google Cloud" height="50px" title="Google Cloud" />
-    <img src="./assets/microsoftazure.svg" alt="Microsoft Azure" height="50px" title="Microsoft Azure" />
     <img src="./assets/vmware.svg" alt="VMware Infrastructure" height="50px" title="VMware Infrastructure" />
     <img src="./assets/openai.svg" alt="Open AI" height="50px" title="Open AI" />
     <img src="./assets/numpy.svg" alt="NumPy" height="50px" title="NumPy" />
