@@ -1,4 +1,4 @@
-<img src="./assets/github-profile-banner.jpg" />
+<img src="./assets/github-profile-banner.webp" />
 
 <h2 align="center">
     👋 console.log("Hi!, I’m José Miguel Reyes");
@@ -28,11 +28,12 @@ Currently, I am fully immersed in the study and analysis of recently emerged Dat
 
 ```javascript
 const seyerjo = {
-    pronouns: ["he", "him"],
-    passions: ["Data Science", "AI", "Web, Mobile and Desktop Development"],
-    askMeAbout: ["Software Development", "Data Science", "AI", "IT"],
+  pronouns: ["he", "him"],
+  passions: ["Data Science", "AI", "Web, Mobile and Desktop Development"],
+  askMeAbout: ["Software Development", "Data Science", "AI", "IT"],
 };
 ```
+
 <h2 align="center">
     ⌨️ Some Technologies I have used in my projects ...
 </h2>
@@ -46,24 +47,25 @@ const seyerjo = {
     <img src="./assets/python.svg" alt="Python" height="50px" title="Python" />
     <img src="./assets/php.svg" alt="PHP" height="50px" title="PHP" />
     <img src="./assets/delphi.svg" alt="Object Pascal (Delphi)" height="50px" title="Object Pascal (Delphi)" />
-    <img src="./assets/csharp.png" alt="C#" height="50px" title="C#" />
+    <img src="./assets/csharp.webp" alt="C#" height="50px" title="C#" />
 </div>
 
 <div align="center">
     <img src="./assets/sass.svg" alt="Sass" height="50px" title="Sass" />
     <img src="./assets/bootstrap.svg" alt="Bootstrap" height="50px" title="Bootstrap" />
     <img src="./assets/tailwindcss.svg" alt="Tailwind CSS" height="50px" title="Tailwind CSS" />
-    <img src="./assets/astro.svg" alt="Astro" height="50px" title="Astro" />
     <img src="./assets/nodedotjs.svg" alt="Node.JS" height="50px" title="Node.JS" />
     <img src="./assets/express.svg" alt="Express.JS" height="50px" title="Express.JS" />
+    <img src="./assets/nextdotjs.svg" alt="Next.JS" height="50px" title="Next.JS" />
+    <img src="./assets/astro.svg" alt="Astro" height="50px" title="Astro" />
     <img src="./assets/typescript.svg" alt="TypeScript" height="50px" title="TypeScript" />
-    <img src="./assets/react.svg" alt="React.JS & React Native" height="50px" title="React.JS & React Native" />
 </div>
 
 <div align="center">
-    <img src="./assets/nextdotjs.svg" alt="Next.JS" height="50px" title="Next.JS" />
+    <img src="./assets/react.svg" alt="React.JS & React Native" height="50px" title="React.JS & React Native" />
     <img src="./assets/electron.svg" alt="Electron" height="50px" title="Electron" />
     <img src="./assets/django.svg" alt="Django" height="50px" title="Django" />
+    <img src="./assets/flask.svg" alt="Django" height="50px" title="Django" />
     <img src="./assets/laravel.svg" alt="Laravel" height="50px" title="Laravel" />
     <img src="./assets/wordpress.svg" alt="WordPress Core" height="50px" title="WordPress Core" />
     <img src="./assets/sqlite.svg" alt="SQLite" height="50px" title="SQLite" />
@@ -77,6 +79,7 @@ const seyerjo = {
     <img src="./assets/git.svg" alt="Git" height="50px" title="Git" />
     <img src="./assets/github.svg" alt="GitHub" height="50px" title="GitHub" />
     <img src="./assets/visualstudiocode.svg" alt="Visual Studio Code" height="50px" title="Visual Studio Code" />
+    <img src="./assets/visualstudio.webp" alt="Visual Studio Code" height="50px" title="Visual Studio Code" />
     <img src="./assets/androidstudio.svg" alt="Android Studio" height="50px" title="Android Studio" />
     <img src="./assets/radstudio.svg" alt="RAD Studio" height="50px" title="RAD Studio" />
     <img src="./assets/xampp.svg" alt="XAMPP" height="50px" title="XAMPP" />
