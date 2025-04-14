@@ -28,11 +28,15 @@ Currently, I am fully immersed in the study and analysis of recently emerged Dat
 
 ```javascript
 const seyerjo = {
-  pronouns: ["he", "him"],
-  passions: ["Data Science", "AI", "Web, Mobile and Desktop Development"],
-  askMeAbout: ["Software Development", "Data Science", "AI", "IT"],
+	pronouns: ["he", "him"],
+	passions: ["Data Science", "AI", "Web, Mobile and Desktop Development"],
+	askMeAbout: ["Software Development", "Data Science", "AI", "IT"],
 };
 ```
+
+<p align="justify">
+<span style="font-weight: bold; color:rgb(248, 6, 6)"> This is my new space on GitHub. I'll gradually be republishing all the projects I share with the community.</span>
+</p>
 
 <h2 align="center">
     ⌨️ Some Technologies I have used in my projects ...
