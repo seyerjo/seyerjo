@@ -121,18 +121,7 @@ const seyerjo = {
     <img src="./assets/tensorflow.svg" alt="Tensorflow" height="50px" title="Tensorflow" />
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-%F0%9F%97%8C️-red" alt="Pin rojo">
-</p>
+---
 
-<p align="center">
-  ---
-</p>
-
-<p align="center">
-  **This is my new space on GitHub.**
-</p>
-
-<p align="center">
-  **I'll gradually be republishing all the projects I share with the community.**
-</p>
+<h4 align="center">📌This is my new space on GitHub.</h4>
+<p align="center">I'll gradually be republishing all the projects I share with the community.</p>
