@@ -34,10 +34,6 @@ const seyerjo = {
 };
 ```
 
-<h5 style="text-align: center; color: red;">
-    This is my new space on GitHub. I'll gradually be republishing all the projects I share with the community
-</h5>
-
 <h2 align="center">
     Some Technologies I have used in my projects ...
 </h2>
@@ -124,3 +120,7 @@ const seyerjo = {
     <img src="./assets/numpy.svg" alt="NumPy" height="50px" title="NumPy" />
     <img src="./assets/tensorflow.svg" alt="Tensorflow" height="50px" title="Tensorflow" />
 </div>
+
+<h5 style="text-align: center; color: red;">
+    This is my new space on GitHub. I'll gradually be republishing all the projects I share with the community
+</h5>
