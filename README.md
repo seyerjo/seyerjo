@@ -34,12 +34,12 @@ const seyerjo = {
 };
 ```
 
-<p align="justify">
-<span style="font-weight: bold; color:rgb(248, 6, 6)"> This is my new space on GitHub. I'll gradually be republishing all the projects I share with the community.</span>
-</p>
+<h5 style="text-align: center; color: red;">
+    This is my new space on GitHub. I'll gradually be republishing all the projects I share with the community
+</h5>
 
 <h2 align="center">
-    ⌨️ Some Technologies I have used in my projects ...
+    Some Technologies I have used in my projects ...
 </h2>
 
 <br/>
