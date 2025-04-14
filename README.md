@@ -125,3 +125,5 @@ const seyerjo = {
 
 <h4 align="center">📌This is my new space on GitHub.</h4>
 <p align="center">I'll gradually be republishing all the projects I share with the community.</p>
+
+<hr style="border: none; height: 1px; margin: 20px 0;">
