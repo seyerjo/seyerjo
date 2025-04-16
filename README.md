@@ -113,12 +113,25 @@ const seyerjo = {
 </div>
 
 <div align="center">
-    <img src="./assets/cloudflare.svg" alt="Cloudflare" height="50px" title="Cloudflare" />
+    <img src="./assets/oraclecloud.webp" alt="Oracle Cloud" height="50px" title="Oracle Cloud" />
+    <img src="./assets/cloudflare.svg" alt="Cloudflare" height="50px" title="Cloudflare" />    
     <img src="./assets/docker.svg" alt="Docker" height="50px" title="Docker" /> 
+    <img src="./assets/kubernetes.svg" alt="Kubernetes" height="50px" title="Kubernetes" /> 
     <img src="./assets/vmware.svg" alt="VMware Infrastructure" height="50px" title="VMware Infrastructure" />
     <img src="./assets/openai.svg" alt="Open AI" height="50px" title="Open AI" />
+    <img src="./assets/deepseek.webp" alt="DeepSeek" height="50px" title="DeepSeek" />
+    <img src="./assets/openrouter.webp" alt="Open Router" height="50px" title="Open Router" />
+</div>
+
+<div align="center">
+    <img src="./assets/huggingface.svg" alt="Hugging Face" height="50px" title="Hugging Face" />
+    <img src="./assets/googlecolab.svg" alt="Google Colab" height="50px" title="Google Colab" />
     <img src="./assets/numpy.svg" alt="NumPy" height="50px" title="NumPy" />
     <img src="./assets/tensorflow.svg" alt="Tensorflow" height="50px" title="Tensorflow" />
+    <img src="./assets/pandas.svg" alt="Pandas" height="50px" title="Pandas" />
+    <img src="./assets/jupyter.svg" alt="Jupyter Notebooks" height="50px" title="Jupyter Notebooks" />
+    <img src="./assets/pytorch.svg" alt="Pytorch" height="50px" title="Pytorch" />
+    <img src="./assets/scikitlearn.svg" alt="Scikit-learn" height="50px" title="Scikit-learn" />
 </div>
 
 <hr style="border: none; height: 1px; margin: 20px 0;">
