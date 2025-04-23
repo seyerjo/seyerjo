@@ -6,24 +6,20 @@
 
 <br/>
 
+<blockquote>
+Using data analysis, AI, and software development as a driving force to transform business operations and make them more efficient and productive is at the core of my professional work.
+</blockquote>
+
 <p align="justify">
-I am an IT Consultant, specialized in the application of Data Analytics and Artificial Intelligence in the automation and productivity increase of Business Processes, as well as in Software Development for the Web, mobile devices and for Windows, Linux and macOS desktops.
+I am an Information Technology Consultant primarily focused on the strategic application of <span style= "font-weight: bold;">Data Analysis and Artificial Intelligence</span> to automate processes and increase productivity in the business environment. I complement this work with <span style= "font-weight: bold;">custom software development</span> for web platforms, mobile devices, and desktop systems (Windows, Linux, and macOS).
 </p>
 
 <p align="justify">
-I love seeking and finding solutions to problems through technology and I am involved in all phases of the projects I work on, from planning to production, to ensure that the final result is the best possible.
+My commitment to the success of projects leads me to be <span style= "font-weight: bold;">fully involved in all their phases</span>, from the initial conception to deployment. <span style= "font-weight: bold;">This comprehensive view of the project lifecycle</span> is based on a solid foundation of additional knowledge and experience in areas such as <span style= "font-weight: bold;">Systems Administration</span>, the design, implementation, and management of <span style= "font-weight: bold;">IT Infrastructures</span>, and <span style= "font-weight: bold;">Cybersecurity</span>, which allows me to tackle challenges from a broad perspective and offer more robust and complete solutions.
 </p>
 
 <p align="justify">
-Throughout my professional career I have acquired another set of skills that allow me to help every day all those people who rely on my work, such as Systems Administration, design, implementation and management of IT Infrastructures and Processes or Cybersecurity, among many others.
-</p>
-
-<p align="justify">
-When I'm not programming or attending consultations, I'm collaborating with the IT Community or learning new things.
-</p>
-
-<p align="justify">
-Currently, I am fully immersed in the study and analysis of recently emerged Data Science and Artificial Intelligence-based tools and their impact on the effective increase in productivity of IT processes in companies, either through their direct application or through purpose-programmed solutions.
+When I’m not immersed in projects or consulting, <span style= "font-weight: bold;">I dedicate</span> my time to collaborating with the IT Community and, above all, to continuous learning. Currently, I spend much of my time studying and deeply analyzing the <span style= "font-weight: bold;">latest tools in Data Science and Artificial Intelligence</span>, actively researching their real and effective impact on optimizing technological processes in companies, both through direct application and the development of innovative solutions.
 </p>
 
 ```javascript
