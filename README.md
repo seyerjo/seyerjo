@@ -55,10 +55,10 @@ const seyerjo = {
     <img src="./assets/images/nextdotjs.svg" alt="Next.JS" height="50px" title="Next.JS" />
     <img src="./assets/images/astro.svg" alt="Astro" height="50px" title="Astro" />
     <img src="./assets/images/typescript.svg" alt="TypeScript" height="50px" title="TypeScript" />
+    <img src="./assets/images/react.svg" alt="React.JS & React Native" height="50px" title="React.JS & React Native" />
 </div>
 
 <div align="center">
-    <img src="./assets/images/react.svg" alt="React.JS & React Native" height="50px" title="React.JS & React Native" />
     <img src="./assets/images/electron.svg" alt="Electron" height="50px" title="Electron" />
     <img src="./assets/images/django.svg" alt="Django" height="50px" title="Django" />
     <img src="./assets/images/flask.webp" alt="Flask" height="50px" title="Flask" />
