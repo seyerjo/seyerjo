@@ -7,19 +7,19 @@
 <br/>
 
 <blockquote>
-Using data analysis, AI, and software development as a driving force to transform business operations and make them more efficient and productive is at the core of my professional work.
+Using data analysis, Artificial Intelligence, and software development as a driving force to transform business operations and make them more efficient and productive is at the core of my professional work.
 </blockquote>
 
 <p align="justify">
-I am an Information Technology Consultant primarily focused on the strategic application of <span style= "font-weight: bold;">Data Analysis and Artificial Intelligence</span> to automate processes and increase productivity in the business environment. I complement this work with <span style= "font-weight: bold;">custom software development</span> for web platforms, mobile devices, and desktop systems (Windows, Linux, and macOS).
+ I am an Information Technology Consultant focused on the strategic application of <span style= "font-weight: bold;">Data Analysis and Artificial Intelligence</span> to automate processes and enhance business productivity. I also develop <span style= "font-weight: bold;">custom software</span> for various platforms (web, mobile an desktop).
 </p>
 
 <p align="justify">
-My commitment to the success of projects leads me to be <span style= "font-weight: bold;">fully involved in all their phases</span>, from the initial conception to deployment. <span style= "font-weight: bold;">This comprehensive view of the project lifecycle</span> is based on a solid foundation of additional knowledge and experience in areas such as <span style= "font-weight: bold;">Systems Administration</span>, the design, implementation, and management of <span style= "font-weight: bold;">IT Infrastructures</span>, and <span style= "font-weight: bold;">Cybersecurity</span>, which allows me to tackle challenges from a broad perspective and offer more robust and complete solutions.
+My commitment to project success leads me to be <span style= "font-weight: bold;">fully involved in all their phases</span>, from initial conception to deployment. <span style= "font-weight: bold;">This comprehensive perspective</span> of the project lifecycle is grounded in a solid foundation of knowledge and <span style= "font-weight: bold;">over 20 years of experience</span> in areas such as <span style= "font-weight: bold;">Systems Administration</span>, the design, implementation, and management of <span style= "font-weight: bold;">IT Infrastructures</span>, and <span style= "font-weight: bold;">Cybersecurity</span>. This enables me to tackle challenges from a broad perspective and offer more robust and complete solutions.
 </p>
 
 <p align="justify">
-When I’m not immersed in projects or consulting, <span style= "font-weight: bold;">I dedicate</span> my time to collaborating with the IT Community and, above all, to continuous learning. Currently, I spend much of my time studying and deeply analyzing the <span style= "font-weight: bold;">latest tools in Data Science and Artificial Intelligence</span>, actively researching their real and effective impact on optimizing technological processes in companies, both through direct application and the development of innovative solutions.
+When I’m not immersed in projects or consulting, <span style= "font-weight: bold;">I dedicate my time to</span> collaborating with the IT Community and, above all, to <span style= "font-weight: bold;">continuous learning</span>. Currently, I am focused on studying and deeply analyzing the <span style= "font-weight: bold;">latest tools in Data Science and Artificial Intelligence</span>, actively researching their real and effective impact on optimizing technological processes in companies, both through direct application and the development of innovative solutions.
 </p>
 
 ```javascript
