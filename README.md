@@ -15,7 +15,7 @@ Using data analysis, Artificial Intelligence, and software development as a driv
 </p>
 
 <p align="justify">
-My commitment to project success leads me to be <span style= "font-weight: bold;">fully involved in all their phases</span>, from initial conception to deployment. <span style= "font-weight: bold;">This comprehensive perspective</span> of the project lifecycle is grounded in a solid foundation of knowledge and <span style= "font-weight: bold;">over 20 years of experience</span> in areas such as <span style= "font-weight: bold;">Systems Administration</span>, the design, implementation, and management of <span style= "font-weight: bold;">IT Infrastructures</span>, and <span style= "font-weight: bold;">Cybersecurity</span>. This enables me to tackle challenges from a broad perspective and offer more robust and complete solutions.
+My commitment to project success leads me to be <span style= "font-weight: bold;">fully involved in all their phases</span>, from initial conception to deployment. <span style= "font-weight: bold;">This comprehensive perspective</span> of the project lifecycle is grounded in a solid foundation of knowledge and <span style= "font-weight: bold;">over 20 years of experience</span> in areas such as <span style= "font-weight: bold;">Systems Administration</span>, the design, implementation, and management of <span style= "font-weight: bold;">IT Infrastructures</span>, <span style= "font-weight: bold;">Cybersecurity</span> or <span style= "font-weight: bold;">Software Development</span>. This enables me to tackle challenges from a broad perspective and offer more robust and complete solutions.
 </p>
 
 <p align="justify">
