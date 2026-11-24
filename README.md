@@ -24,9 +24,10 @@ When I’m not immersed in projects or consulting, <span style= "font-weight: bo
 
 ```javascript
 const seyerjo = {
-	pronouns: ["he", "him"],
-	passions: ["Data Science", "AI", "Web, Mobile and Desktop Development"],
-	askMeAbout: ["Software Development", "Data Science", "AI", "IT"],
+  pronouns: ["he", "him"],
+  passions: ["Data Science", "AI", "Web, Mobile and Desktop Development"],
+  askMeAbout: ["Software Development", "Data Science", "AI", "IT"],
+  status: ["Engineering for the future", "Always learning"],
 };
 ```
 
